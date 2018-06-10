@@ -1,27 +1,9 @@
-/*#first-section {
+nav, #first-section {
+  background-color: #B0D2DB;
+}
+
+#third-section {
+  background-color: #A4D1A9;
   border: solid;
-  height: 600px;
-  overflow: hidden;
-}
-
-#first-section img {
-  height: 600px;
-}
-.carousel-inner {
-  border: solid;
-  background-color: gray;
-  height: 600px;
-}
-
-
-body {
-  text-align: center;
-}
-
-#first-section img {
- width: 600px;
-}*/
-
-#second-section {
-  border: solid;
+  width: 400px;
 }

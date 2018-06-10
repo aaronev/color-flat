@@ -13,3 +13,11 @@
   height: 600px;
 }
 */
+
+body {
+  text-align: center;
+}
+
+#first-section img {
+ width: 600px;
+}

@@ -10,32 +10,32 @@ footer {
   overflow: hidden;
 }
 
-nav, #first-section {
+nav, #home {
   background-color: #B0D2DB;
   overflow: hidden;
 }
 
-#second-section {
+#services {
   background-color: #FEFEFE;
   width: 100%;
   height: auto;
 }
 
-#third-section {
+#porfolio {
   background-color: #A4D1A9;
   width: 100%;
   height: 500px;
   overflow: hidden;
 }
 
-#fourth-section {
+#info {
   background-color: #F0F0F0;
   width: 100%;
   height: 500px;
   overflow: hidden;
 }
 
-#fifth-section {
+#meet-team {
   background-color: #D7B6C3;
   width: 100%;
   height: 500px;
@@ -43,14 +43,14 @@ nav, #first-section {
 }
 
 
-#sixth-section {
+#blog {
   background-color: #BBD4DF;
   width: 100%;
   height: 500px;
   overflow: hidden;
 }
 
-#seventh-section {
+#contact {
   background-color: #3C3C3C;
   width: 100%;
   height: 500px;

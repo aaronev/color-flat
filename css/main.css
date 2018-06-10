@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 hr {
   width: 60%;              
   background-color: black;
@@ -5,7 +10,6 @@ hr {
 
 footer {
   background-color: #3C3C3C;
-  width: 100%;
   height: 100px;
   overflow: hidden;
 }
@@ -15,29 +19,30 @@ nav, #home {
   overflow: hidden;
 }
 
+#home {
+  height: 80%
+}
+
 #services {
   background-color: #FEFEFE;
-  width: 100%;
   height: auto;
+  margin-top: 30px;
 }
 
 #porfolio {
   background-color: #A4D1A9;
-  width: 100%;
   height: 500px;
   overflow: hidden;
 }
 
 #info {
   background-color: #F0F0F0;
-  width: 100%;
   height: 500px;
   overflow: hidden;
 }
 
 #meet-team {
   background-color: #D7B6C3;
-  width: 100%;
   height: 500px;
   overflow: hidden;
 }
@@ -45,14 +50,12 @@ nav, #home {
 
 #blog {
   background-color: #BBD4DF;
-  width: 100%;
   height: 500px;
   overflow: hidden;
 }
 
 #contact {
   background-color: #3C3C3C;
-  width: 100%;
   height: 500px;
   overflow: hidden;
 }

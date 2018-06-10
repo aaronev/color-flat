@@ -1,9 +1,58 @@
+hr {
+  width: 60%;              
+  background-color: black;
+}
+
+footer {
+  background-color: #3C3C3C;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+}
+
 nav, #first-section {
   background-color: #B0D2DB;
+  overflow: hidden;
+}
+
+#second-section {
+  background-color: #FEFEFE;
+  width: 100%;
+  height: auto;
 }
 
 #third-section {
   background-color: #A4D1A9;
-  border: solid;
-  width: 400px;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+#fourth-section {
+  background-color: #F0F0F0;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+#fifth-section {
+  background-color: #D7B6C3;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+
+#sixth-section {
+  background-color: #BBD4DF;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
+}
+
+#seventh-section {
+  background-color: #3C3C3C;
+  width: 100%;
+  height: 500px;
+  overflow: hidden;
 }

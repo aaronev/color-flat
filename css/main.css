@@ -27,8 +27,12 @@ nav, #home {
 
 #porfolio {
   background-color: #A4D1A9;
-  height: 500px;
+  height: auto;
   overflow: hidden;
+}
+
+#porfolio .navbar {
+  background-color: #A4D1A9;
 }
 
 #info {

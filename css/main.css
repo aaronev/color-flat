@@ -35,9 +35,9 @@ nav, #home {
   background-color: #A4D1A9;
 }
 
-#info {
+#photoshop {
   background-color: #F0F0F0;
-  height: 500px;
+  height: auto;
   overflow: hidden;
 }
 

@@ -1,6 +1,6 @@
 
 hr {
-  width: 60%;              
+  width: 80%;              
   background-color: black;
 }
 
@@ -11,7 +11,8 @@ footer {
 }
 
 textarea {
-  height: 200px
+  height: 200px;
+  resize: none;
 }
 nav, #home {
   background-color: #B0D2DB;
@@ -46,14 +47,15 @@ nav, #home {
 
 #meet-team {
   background-color: #D7B6C3;
-  height: 500px;
+  height: auto;
   overflow: hidden;
+  padding-bottom: 10px;
 }
 
 
 #blog {
   background-color: #BBD4DF;
-  height: 500px;
+  height: auto;
   overflow: hidden;
 }
 

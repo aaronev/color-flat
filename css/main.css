@@ -10,6 +10,9 @@ footer {
   overflow: hidden;
 }
 
+textarea {
+  height: 200px
+}
 nav, #home {
   background-color: #B0D2DB;
   overflow: hidden;
@@ -56,6 +59,6 @@ nav, #home {
 
 #contact {
   background-color: #3C3C3C;
-  height: 500px;
+  height: auto;
   overflow: hidden;
 }
